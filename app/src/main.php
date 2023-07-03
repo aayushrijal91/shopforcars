@@ -63,8 +63,8 @@
                                 <div class="row align-items-center">
                                     <div class="col-8">
                                         <select class="form-select form-control" aria-label="Default select example">
-                                            <option value selected>Personal</option>
-                                            <option>Business</option>
+                                            <option class="fs-16" value selected>Personal</option>
+                                            <option class="fs-16">Business</option>
                                         </select>
                                     </div>
                                     <div class="col-4">
@@ -264,7 +264,7 @@
                     <br><br>
                     If your car is a fossil (15 - 25 years old), some lenders may not even give you the time of the day. If you do not have an expert loan marketplace, who provides you with a large and diverse panel of lenders you may be left with an unsecured loan which will attract higher rates, meaning you pay more.
                 </div>
-                <a href="https://loanoptions.ai/" target="_blank" class="btn btn-outline-green text-white d-inline-flex rounded-pill">Learn More</a>
+                <!--<a href="https://www.carinspect.com.au/" target="_blank" class="btn btn-outline-green text-white d-inline-flex rounded-pill">Learn More</a>-->
             </div>
             <div class="col-lg"><?= renderImg("new-used-car.png", 'lib', 'w-100') ?></div>
         </div>
@@ -409,7 +409,7 @@
                             <path d="M12.6828 2.03539L10.9646 0.317191C10.7615 0.114094 10.4859 0 10.1987 0C9.91141 0 9.63591 0.114094 9.43275 0.317191L7.96697 1.78297L11.217 5.03302L12.6828 3.56725C12.8859 3.36409 13 3.08858 13 2.80132C13 2.51405 12.8859 2.23855 12.6828 2.03539Z" fill="#58DE64" />
                             <path d="M7.19996 2.54998L1.08335 8.66659L0 13L4.33341 11.9166L10.45 5.80004L7.19996 2.54998Z" fill="#58DE64" />
                         </svg>
-                        <span class="fw-600 ls-2 ps-2">374 reviews</span>
+                        <span class="fw-600 ls-2 ps-2">509 reviews</span>
                     </div>
                     <div class="col-auto">
                         <a href="https://www.google.com/search?q=loanoptions+review&rlz=1C1ONGR_enAU1010AU1010&sxsrf=ALiCzsZV3OzoOBJlKjezMPtOZ12yTHhxMg%3A1664943498089&ei=igU9Y7iWBe7Fz7sPqv2zuAs&ved=0ahUKEwi4g5nuncj6AhXu4nMBHar-DLcQ4dUDCA8&uact=5&oq=loanoptions+review&gs_lcp=Cgdnd3Mtd2l6EAMyCAgAEB4QFhAKMggIABAeEA0QBTIICAAQHhANEAUyCAgAEB4QCBANMgUIABCGAzIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOg0ILhCABBDHARCvARAKOgcIABCABBAKOgoIABCABBDJAxAKOgYIABAeEBY6CAgAEB4QDxAWSgQIQRgASgQIRhgAUK4FWP8bYMgdaAFwAXgAgAGxAYgB7wiSAQMwLjeYAQCgAQHIAQjAAQE&sclient=gws-wiz#lrd=0x6b12bde29f9771c7:0xc077907404b9b979,1,,," target="_blank" class="btn btn-primary-light text-secondary rounded-pill">All Google Reviews</a>
@@ -440,7 +440,7 @@
                                 5 star reviews
                             </div>
                         </div>
-                        <div class="hero_heading fs-96 font-articulat-heavy lh-3 ls-2 text-white">More than <span class="text-secondary-light">370</span> smiles, laughs & warcries</div>
+                        <div class="hero_heading fs-96 font-articulat-heavy lh-3 ls-2 text-white">More than <span class="text-secondary-light">509</span> smiles, laughs & warcries</div>
                         <a href="javascript:void(0)" id="seeTestimonials" class="btn d-inline-flex rounded-pill btn-green text-white">See Testimonials</a>
                     </div>
                 </div>
@@ -496,7 +496,7 @@
                     <div class="row align-items-end justify-content-center justify-content-md-between gy-md-5 gy-4">
                         <div class="col-lg text-center text-md-start">
                             <div class="fs-40 font-articulat-heavy lh-3">Australia's first <br/>dealership-only car classified</div>
-                            <div class="fs-20 fw-700 pt-3">Shopforcars helps Australians buy used cars with confidence.</div>
+                            <div class="fs-20 fw-700 pt-3">Carinspect helps Australians buy used cars with confidence.</div>
                         </div>
                         <div class="col-auto">
                             <a href="https://loanoptions.ai/" target="_blank" class="btn btn-green text-white d-inline-flex rounded-pill">Visit loanoptions.ai</a>
