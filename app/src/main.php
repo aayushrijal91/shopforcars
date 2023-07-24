@@ -31,7 +31,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="fieldgroup loanwidgetfieldgroup fieldgroup-3 hidden">
+                            <div class="fieldgroup loanwidgetfieldgroup fieldgroup-2 hidden">
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <p class="fw-900 h2 text-primary mb-0">What’s your preferred loan term?</p>
                                     <div><?= renderImg('poweredby-loanoptions.png', 'logo') ?></div>
@@ -50,12 +50,12 @@
                                             <input type="range" min="1" max="7" value="5" step="1" class="w-100 slider" id="yearrange">
                                         </div>
                                         <div class="col-3">
-                                            <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 fieldgroupprev-2">Continue</a>
+                                            <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 fieldgroupnext-2">Continue</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="fieldgroup loanwidgetfieldgroup fieldgroup-4 hidden">
+                            <div class="fieldgroup loanwidgetfieldgroup fieldgroup-3 hidden">
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <p class="fw-900 h2 text-primary mb-0">Is this going to be for personal or business use?</p>
                                     <div><?= renderImg('poweredby-loanoptions.png', 'logo') ?></div>
@@ -68,7 +68,7 @@
                                         </select>
                                     </div>
                                     <div class="col-4">
-                                        <a href="javascript:void(0)" class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 loanwidgetsubmit">Compare Car Loans</a>
+                                        <button class="btn btn-secondary text-white fw-900 rounded-pill px-lg-4 p-2 py-lg-3 w-100 loanwidgetsubmit">Compare Car Loans</button>
                                     </div>
                                 </div>
                             </div>
@@ -495,7 +495,7 @@
                 <div class="flight_center">
                     <div class="row align-items-end justify-content-center justify-content-md-between gy-md-5 gy-4">
                         <div class="col-lg text-center text-md-start">
-                            <div class="fs-40 font-articulat-heavy lh-3">Australia's first <br/>dealership-only car classified</div>
+                            <div class="fs-40 font-articulat-heavy lh-3">Australia's first <br />dealership-only car classified</div>
                             <div class="fs-20 fw-700 pt-3">Carinspect helps Australians buy used cars with confidence.</div>
                         </div>
                         <div class="col-auto">
